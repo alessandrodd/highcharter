@@ -1,3 +1,7 @@
+# highcharter (development version)
+
+* Highcharter now uses HighchartsJS 12.6.2 (#849).
+
 # highcharter 0.12.6.1
 
 ## Changes
